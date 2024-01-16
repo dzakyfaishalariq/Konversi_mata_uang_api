@@ -3,7 +3,7 @@ https://konversi-mata-uang-api-vr8l.vercel.app
 Penggunaan Link diatas digunakan untuk memanggi reques informasi umum tentang aplikasi ini dan menampilkan beberapa list yang bisa dikonversi mata uang dalam aplikasi tersebut
 
 hasil yang di tampilkan:
-'''
+```
 {
 "descripsi": "Aplilasi ini merupakan aplikasi untuk mengkonversikan mata uang yang terdiri dari beberapa mata uang yang akan dikonversikan dari input yang kita buat",
 "jenis_konversi": [
@@ -42,7 +42,7 @@ hasil yang di tampilkan:
 ],
 "judul": "Applikasi Konversi Mata Uang"
 }
-'''
+```
 ﻿
 
 # GET Konversi Mata Uang
@@ -68,7 +68,7 @@ Dalam ling diatas dia akan menampilkan hasil dari konversi mata uang dari aplika
 ﻿'http://127.0.0.1:5000/konversi/nama_mata_uang/nilai_mata_uang'﻿
 
 contoh hasil yang didapatkan:
-'''
+```
 {
 "hasil_konversi": [
 {
@@ -101,6 +101,6 @@ contoh hasil yang didapatkan:
 }
 ]
 }
-'''
+```
 ﻿
 
